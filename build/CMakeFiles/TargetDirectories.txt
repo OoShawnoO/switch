@@ -1,0 +1,5 @@
+/home/huzhida/桌面/lab4/build/CMakeFiles/switch.dir
+/home/huzhida/桌面/lab4/build/CMakeFiles/simulator.dir
+/home/huzhida/桌面/lab4/build/CMakeFiles/test.dir
+/home/huzhida/桌面/lab4/build/CMakeFiles/edit_cache.dir
+/home/huzhida/桌面/lab4/build/CMakeFiles/rebuild_cache.dir
