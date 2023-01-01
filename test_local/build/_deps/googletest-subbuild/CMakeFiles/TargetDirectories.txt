@@ -1,0 +1,3 @@
+/home/huzhida/桌面/lab4/test_local/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/home/huzhida/桌面/lab4/test_local/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/huzhida/桌面/lab4/test_local/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

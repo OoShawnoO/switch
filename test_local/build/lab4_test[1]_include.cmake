@@ -1,0 +1,5 @@
+if(EXISTS "/home/huzhida/桌面/lab4/test_local/build/lab4_test[1]_tests.cmake")
+  include("/home/huzhida/桌面/lab4/test_local/build/lab4_test[1]_tests.cmake")
+else()
+  add_test(lab4_test_NOT_BUILT lab4_test_NOT_BUILT)
+endif()
